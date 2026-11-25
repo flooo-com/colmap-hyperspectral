@@ -38,7 +38,7 @@ class ModelViewerWidget : public QOpenGLWidget,
   const float kMaxFocusDistance = 1e8f;
   const float kFieldOfView = 25.0f;
   const float kFocusSpeed = 2.0f;
-  const float kInitPointSize = 1.0f;
+  const float kInitPointSize = 3.0f;
   const float kMinPointSize = 0.5f;
   const float kMaxPointSize = 100.0f;
   const float kPointScaleSpeed = 0.1f;
